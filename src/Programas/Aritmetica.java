@@ -12,6 +12,7 @@ public class Aritmetica {
         num1=lectura.nextDouble();
         System.out.print("Ingresar número 2:");
         num2=lectura.nextDouble();
+        System.out.print("Resultado de la aplicacion");
         //proceso de datos
         suma=num1+num2;
         promedio=suma/2;
